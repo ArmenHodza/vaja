@@ -6,7 +6,7 @@ def hello(s):
 def sestevanje(a, b):
     rez = 0
     rez = rez + a
-    rez = rez + a
+    rez = rez + b
     return rez
 
 hello("Armen")
