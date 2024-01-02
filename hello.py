@@ -11,3 +11,6 @@ def sestevanje(a, b):
 
 hello("Armen")
 print(sestevanje(1, 3))
+
+
+hello("World")
